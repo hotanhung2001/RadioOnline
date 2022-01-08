@@ -1,4 +1,5 @@
-[
+{
+"url":[
   {
     "src":"https://strm.voh.com.vn/radio/channel3/playlist.m3u8"
   }
@@ -9,3 +10,4 @@
     "src":"https://strm.voh.com.vn/radio/channel3/playlist.m3u8"
   }
 ]
+}
