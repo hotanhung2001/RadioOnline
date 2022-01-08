@@ -1,12 +1,15 @@
 {
 "channels":[
   {
+    "name":"VOV",
     "src":"https://strm.voh.com.vn/radio/channel3/playlist.m3u8"
   },
   {
+    "name":"VOV1",
     "src":"https://strm.voh.com.vn/radio/channel3/playlist.m3u8"
   },
 {
+    "name":"VOV2"
     "src":"https://strm.voh.com.vn/radio/channel3/playlist.m3u8"
   }
 ]
