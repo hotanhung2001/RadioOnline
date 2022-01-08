@@ -1,25 +1,32 @@
 {
 "channels":[
   {
+    "name":"VOV",
     "src":"https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8"
   },
   {
+    "name":"VOV1",
     "src":"https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8"
   },
  {
-    "src":"https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8"
+   "name":"VOV2", 
+   "src":"https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8"
  },
   {
+    "name":"VOV3",
     "src":"https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8"
   },
   {
+    "name":"VOV4",
     "src":"https://str.vov.gov.vn/vovlive/vov247vov5English.sdp_aac/playlist.m3u8"
   },
 {
-    "src":"https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8"
+  "name":"VOV5",  
+  "src":"https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8"
   },
 {
-    "src":"https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/playlist.m3u8"
+  "name":"VOV TV",  
+  "src":"https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/playlist.m3u8"
   }
 ]
 }
