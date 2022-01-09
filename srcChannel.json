@@ -1,32 +1,39 @@
 {
 "channels":[
   {
-    "name":"VOV",
-    "src":"https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8"
+    "name":"VOV1",
+    "src":"https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
+    "https://admin.vov.gov.vn//UploadFolder/DonVi_Image/a20c56e9-3627-4c6e-94e7-0ab00c748eed.png"
   },
   {
-    "name":"VOV1",
-    "src":"https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8"
+    "name":"VOV2",
+    "src":"https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8",
+    "https://admin.vov.gov.vn//UploadFolder/DonVi_Image/b0bfb983-d686-4273-9420-da084f0ac458.png"
   },
  {
-   "name":"VOV2", 
-   "src":"https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8"
+   "name":"VOV3", 
+   "src":"https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8",
+   "https://admin.vov.gov.vn//UploadFolder/DonVi_Image/e846baee-2580-42c1-a22d-e58cf82a9808.png"
  },
   {
-    "name":"VOV3",
-    "src":"https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8"
+    "name":"VOV4",
+    "src":"https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8",
+    "https://admin.vov.gov.vn//UploadFolder/DonVi_Image/90e621f9-cf33-42bc-89e0-cd63c4b6d282.png"
   },
   {
-    "name":"VOV4",
-    "src":"https://str.vov.gov.vn/vovlive/vov247vov5English.sdp_aac/playlist.m3u8"
+    "name":"VOV5",
+    "src":"https://str.vov.gov.vn/vovlive/vov247vov5English.sdp_aac/playlist.m3u8",
+    "https://admin.vov.gov.vn//UploadFolder/DonVi_Image/8c00cd95-6919-4cb2-9f73-13d5e7ee7572.png"
   },
 {
-  "name":"VOV5",  
-  "src":"https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8"
+  "name":"VOV6",  
+  "src":"https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8",
+  "https://admin.vov.gov.vn//UploadFolder/DonVi_Image/7c9eea84-3a44-42bc-be0d-f0682f71c23d.png"
   },
 {
-  "name":"VOV TV",  
-  "src":"https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/playlist.m3u8"
+  "name":"VOV GT",  
+  "src":"https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/playlist.m3u8",
+  "https://admin.vov.gov.vn//UploadFolder/DonVi_Image/68d43961-b50b-4403-b666-4da51296ca61.png"
   }
 ]
 }
