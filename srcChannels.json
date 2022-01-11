@@ -1,16 +1,6 @@
 {
 "channels":[
   {
-    "name":"HANOI TV",
-    "src":"https://livept.hanoitv.vn/hntvRadio/fm96.sdp_aac/playlist.m3u8",
-    "image":"https://cdn.webrad.io/images/logos/vietnamradio-org/ha-noi.png"
-  },
-  {
-    "name":"Bac Giang",
-    "src":"https://live.bacgiangtv.vn/bgtvlive/radio.m3u8",
-    "image":"https://cdn.webrad.io/images/logos/vietnamradio-org/bac-giang.png"
-  },
-  {
     "name":"VOV1",
     "src":"https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
     "image":"https://admin.vov.gov.vn//UploadFolder/DonVi_Image/a20c56e9-3627-4c6e-94e7-0ab00c748eed.png"
