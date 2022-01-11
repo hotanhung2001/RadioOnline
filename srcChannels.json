@@ -1,14 +1,28 @@
 {
 "channels":[
   {
+    "id":"1",
     "name":"VOV1",
     "src":"https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
     "image":"/ba-ria-vung-tau.png"
   },
   {
+    "id":"1",
     "name":"VOV2",
     "src":"https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8",
     "image":"/binh-phuoc.png"
+  },
+  {
+    "id":"2",
+    "name":"VOV1",
+    "src":"https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
+    "image":"/a20c56e9-3627-4c6e-94e7-0ab00c748eed.png"
+  },
+  {
+    "id":"2",
+    "name":"VOV2",
+    "src":"https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8",
+    "image":"/b0bfb983-d686-4273-9420-da084f0ac458.png"
   }
 ]
 }
