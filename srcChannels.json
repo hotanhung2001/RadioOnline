@@ -1,25 +1,25 @@
 {
 "channels":[
   {
-    "id":"1",
+    "id":1,
     "name":"VOV1",
     "src":"https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
     "image":"/RTqj6Y9/voh610.png"
   },
   {
-    "id":"1",
+    "id":1,
     "name":"VOV2",
     "src":"https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8",
     "image":"/cYdWxLB/fmgthcm.jpg"
   },
   {
-    "id":"2",
+    "id":2,
     "name":"VOV1",
     "src":"https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
     "image":"/TkhsG5f/fmgthn.jpg"
   },
   {
-    "id":"2",
+    "id":2,
     "name":"VOV2",
     "src":"https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8",
     "image":"/Z8LRsdY/bacgiang.png"
