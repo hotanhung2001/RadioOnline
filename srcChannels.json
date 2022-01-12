@@ -5,24 +5,7 @@
     "name":"VOV1",
     "src":"https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
     "image":"/RUxQ8FKD6c.jpg"
-  },
-  {
-    "id":9,
-    "name":"VOV2",
-    "src":"https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8",
-    "image":"/m6jH9G7PPq.png"
-  },
-  {
-    "id":10,
-    "name":"VOV1",
-    "src":"https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
-    "image":"/YWzgFtNcYx.png"
-  },
-  {
-    "id":11,
-    "name":"VOV2",
-    "src":"https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8",
-    "image":"/rBHkNXby55.jpg"
   }
+  
 ]
 }
